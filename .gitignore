@@ -1,0 +1,11 @@
+__pycache__/
+data/months/
+data/sst.mnmean.nc
+data/ersst.v5.202001.nc
+data/winter.json
+canvas_tail.txt
+emit_canvas.py
+_*.py
+_*.txt
+_*.json
+_*.html
